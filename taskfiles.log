@@ -1,0 +1,48 @@
+2018-05-10 11:43:57,661 	 tfile 	 INFO 	 Task: Start
+2018-05-10 11:43:57,661 	 tfile 	 INFO 	 created new rfile
+2018-05-10 11:43:57,661 	 tfile 	 INFO 	 head store: [u'mem.txt', 0, u'2018-05-10 11:41:06', u'2018-05-10 11:43:57']
+2018-05-10 11:43:57,661 	 tfile 	 INFO 	 head current: ['mem.txt', 3018, '2018-05-10 11:41:06', '2018-05-10 11:43:57']
+2018-05-10 11:43:57,662 	 tfile 	 WARNING 	 Task: rfile old, need recreate
+2018-05-10 11:43:57,662 	 tfile 	 INFO 	 created new rfile
+2018-05-10 11:43:57,663 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:43:57,663 	 tfile 	 INFO 	 Task: recreated rfile: 5 records
+2018-05-10 11:44:12,795 	 tfile 	 INFO 	 Task: Start
+2018-05-10 11:44:12,795 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:44:12,796 	 tfile 	 INFO 	 head store: [u'mem.txt', 3018, u'2018-05-10 11:41:06', u'2018-05-10 11:43:57']
+2018-05-10 11:44:12,796 	 tfile 	 INFO 	 head current: ['mem.txt', 3018, '2018-05-10 11:41:06', '2018-05-10 11:44:12']
+2018-05-10 11:45:53,554 	 tfile 	 INFO 	 Task: Start
+2018-05-10 11:45:53,554 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:45:53,554 	 tfile 	 INFO 	 head store: [u'mem.txt', 3018, u'2018-05-10 11:41:06', u'2018-05-10 11:43:57']
+2018-05-10 11:45:53,554 	 tfile 	 INFO 	 head current: ['mem.txt', 3085, '2018-05-10 11:45:50', '2018-05-10 11:45:53']
+2018-05-10 11:45:53,554 	 tfile 	 WARNING 	 Task: rfile old, need recreate
+2018-05-10 11:45:53,555 	 tfile 	 INFO 	 created new rfile
+2018-05-10 11:45:53,556 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:45:53,556 	 tfile 	 INFO 	 Task: recreated rfile: 5 records
+2018-05-10 11:46:10,453 	 tfile 	 INFO 	 Task: Start
+2018-05-10 11:46:10,454 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:46:10,454 	 tfile 	 INFO 	 head store: [u'mem.txt', 3085, u'2018-05-10 11:45:50', u'2018-05-10 11:45:53']
+2018-05-10 11:46:10,454 	 tfile 	 INFO 	 head current: ['mem.txt', 3092, '2018-05-10 11:46:09', '2018-05-10 11:46:10']
+2018-05-10 11:46:10,454 	 tfile 	 WARNING 	 Task: rfile old, need recreate
+2018-05-10 11:46:10,454 	 tfile 	 INFO 	 created new rfile
+2018-05-10 11:46:10,456 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:46:10,456 	 tfile 	 INFO 	 Task: recreated rfile: 5 records
+2018-05-10 11:47:27,643 	 tfile 	 INFO 	 Task: Start
+2018-05-10 11:47:27,643 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:47:27,643 	 tfile 	 INFO 	 head store: [u'mem.txt', 3092, u'2018-05-10 11:46:09', u'2018-05-10 11:46:10']
+2018-05-10 11:47:27,644 	 tfile 	 INFO 	 head current: ['mem.txt', 3092, '2018-05-10 11:46:09', '2018-05-10 11:47:27']
+2018-05-10 11:48:21,467 	 tfile 	 INFO 	 Task: Start
+2018-05-10 11:48:21,467 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:48:21,467 	 tfile 	 INFO 	 head store: [u'mem.txt', 3092, u'2018-05-10 11:46:09', u'2018-05-10 11:46:10']
+2018-05-10 11:48:21,467 	 tfile 	 INFO 	 head current: ['mem.txt', 3092, '2018-05-10 11:46:09', '2018-05-10 11:48:21']
+2018-05-10 11:48:21,468 	 tfile 	 ERROR 	 Task: packed file mem.txt 
+2018-05-10 11:48:21,468 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:48:21,468 	 tfile 	 INFO 	 head store: [u'mem.txt', 3092, u'2018-05-10 11:46:09', u'2018-05-10 11:46:10']
+2018-05-10 11:48:21,468 	 tfile 	 INFO 	 head current: ['mem.txt', 3091, '2018-05-10 11:48:21', '2018-05-10 11:48:21']
+2018-05-10 11:48:21,468 	 tfile 	 WARNING 	 Task: rfile old, need recreate
+2018-05-10 11:48:21,469 	 tfile 	 INFO 	 created new rfile
+2018-05-10 11:48:21,470 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:48:21,470 	 tfile 	 INFO 	 Task: recreated rfile: 5 records
+2018-05-10 11:49:13,546 	 tfile 	 INFO 	 Task: Start
+2018-05-10 11:49:13,546 	 tfile 	 INFO 	 opened rfile count: 6
+2018-05-10 11:49:13,546 	 tfile 	 INFO 	 head store: [u'mem.txt', 3091, u'2018-05-10 11:48:21', u'2018-05-10 11:48:21']
+2018-05-10 11:49:13,546 	 tfile 	 INFO 	 head current: ['mem.txt', 3091, '2018-05-10 11:48:21', '2018-05-10 11:49:13']
